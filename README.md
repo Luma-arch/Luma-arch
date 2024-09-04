@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing for now
--🤓☝ I use Arch btw
+- 🤓☝ I use Arch btw
 - 📫 How to reach me: celse2021@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If its about maths, send me a email.
